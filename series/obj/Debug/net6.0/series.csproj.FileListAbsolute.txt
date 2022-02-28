@@ -1,0 +1,15 @@
+D:\Projects\.NET\series\series\obj\Debug\net6.0\series.csproj.AssemblyReference.cache
+D:\Projects\.NET\series\series\obj\Debug\net6.0\series.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\.NET\series\series\obj\Debug\net6.0\series.AssemblyInfoInputs.cache
+D:\Projects\.NET\series\series\obj\Debug\net6.0\series.AssemblyInfo.cs
+D:\Projects\.NET\series\series\obj\Debug\net6.0\series.csproj.CoreCompileInputs.cache
+D:\Projects\.NET\series\series\bin\Debug\net6.0\series.exe
+D:\Projects\.NET\series\series\bin\Debug\net6.0\series.deps.json
+D:\Projects\.NET\series\series\bin\Debug\net6.0\series.runtimeconfig.json
+D:\Projects\.NET\series\series\bin\Debug\net6.0\series.dll
+D:\Projects\.NET\series\series\bin\Debug\net6.0\ref\series.dll
+D:\Projects\.NET\series\series\bin\Debug\net6.0\series.pdb
+D:\Projects\.NET\series\series\obj\Debug\net6.0\series.dll
+D:\Projects\.NET\series\series\obj\Debug\net6.0\ref\series.dll
+D:\Projects\.NET\series\series\obj\Debug\net6.0\series.pdb
+D:\Projects\.NET\series\series\obj\Debug\net6.0\series.genruntimeconfig.cache
